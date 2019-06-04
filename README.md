@@ -1,12 +1,16 @@
 # Site
 Использованные фреймвоки:
 
-front-end
+<p>front-end</p>
+<br>
 <li>Bootstrap 3</li>
 <li>немного JQuery</li>
-
-back-end
+<br>
+<p>back-end</p>
+<br>
 <li>Express</li>
-
-database
+<br>
+<p>database</p>
+<br>
 <li>PostgresSql</li>
+<br>
